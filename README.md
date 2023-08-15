@@ -19,7 +19,7 @@ Instead, our Application is made for retrieving all the passwords for all WiFi n
 ## Installation
 
 ### Install the app in your computer
-1. You can download the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0), or click [here](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/download/v1.0.0/WiFi-Extractor_Installer.exe). <br>
+1. You can download the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0), or click [here](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/download/v1.0.0/WiFi-Extractor_Installer.exe). <br><br>
 
 
 ### Downloading the source code:
@@ -35,8 +35,8 @@ Instead, our Application is made for retrieving all the passwords for all WiFi n
 
 The currently supported functionalities are:
 
-* Retrieve your all passwords for all WiFi networks that you have connected to them in the past.
-* Search for a specific WiFi network after you retrieve them all **(still in progress)**.
+* Retrieve your all passwords for all WiFi networks that you have been connected to them in the past.
+* Search for a specific WiFi network after you have retrieved them all **(still in progress)**.
 <br><br><br>
 
 
