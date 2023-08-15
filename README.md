@@ -51,3 +51,10 @@ The currently supported functionalities are:
 
 
 ## Some screenshots from our app
+
+<img width="414" alt="mainWindow" src="https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/assets/94072460/3c31cf60-6611-4c43-a4cd-860efd22471a"> <br><br>
+
+<img width="414" alt="afterExtracting" src="https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/assets/94072460/63913b48-b533-450b-9814-3f30efe22eda"> <br>
+
+
+
