@@ -18,8 +18,8 @@ Instead, our Application is made for retrieving all the passwords for all WiFi n
 
 ## Installation
 
-### Install the app in your computer
-1. You can download the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0), or click [here](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/download/v1.0.0/WiFi-Extractor_Installer.exe). <br><br>
+### Install the app in your computer:
+1. You can download the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0). <br><br>
 
 
 ### Downloading the source code:
