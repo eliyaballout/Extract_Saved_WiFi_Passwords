@@ -18,6 +18,8 @@ Instead, our Application is made for retrieving all the passwords for all WiFi n
 
 ## Installation
 
+**In order for the application to work properly make sure that you have connected to a WiFi network and not to Ethernet cable.**
+
 ### For Windows OS:
 1. You can download and install the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0). <br><br>
 
