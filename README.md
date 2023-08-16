@@ -18,15 +18,24 @@ Instead, our Application is made for retrieving all the passwords for all WiFi n
 
 ## Installation
 
-### Install the app in your computer:
-1. You can download the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0). <br><br>
-just for testing click [here](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/files/12359228/installer.zip)
+### For Windows OS:
+1. You can download and install the app in the [releases page](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/releases/tag/v1.0.0). <br><br>
 
 
-### Downloading the source code:
-1. Download and extract [the ZIP file](https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords/archive/refs/heads/master.zip).
-2. Open the project with any python editor or environment, my recommendation to use Pycharm.
-3. run the project and enjoy! ...
+### For Linux OS:
+To download the application for all Linux distributions, you have to clone the repo from GitHub:
+```
+git clone https://github.com/eliyaballout/Extract_Saved_WiFi_Passwords
+cd Extract_Saved_WiFi_Passwords
+```
+
+run the app:
+```
+python3 ExtractorApp.py
+```
+<br>
+
+<u>***Important Note:***</u> Make sure you have **git** and **python3** installed on your Linux OS.
 <br><br><br>
 
 
@@ -38,6 +47,7 @@ The currently supported functionalities are:
 
 * Retrieve your all passwords for all WiFi networks that you have been connected to them in the past.
 * Search for a specific WiFi network after you have retrieved them all **(still in progress)**.
+* This application is compatible for both Windows and Linux OS.
 <br><br><br>
 
 
