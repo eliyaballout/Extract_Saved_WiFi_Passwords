@@ -57,6 +57,7 @@ class GUI:
         self.results_text.insert(END, "{:<27}| {:<}\n".format("WiFi Name", "Password"))
         self.results_text.insert(END, "---------------------------------------------------\n")
 
+        # Windows OS
         if os.name == "nt":  # Windows
             data = subprocess.run(['netsh', 'wlan', 'show', 'profiles'], capture_output=True, text=True, shell=True).stdout.split('\n')
             profiles = [i.split(":")[1][1::] for i in data if "All User Profile" in i]
@@ -71,6 +72,7 @@ class GUI:
                     self.results_text.insert(END, "{:<27}| {:<}\n".format(i, ""))
 
 
+        # Linux OS
         elif os.name == "posix":  # Linux
             results = subprocess.run(['sudo', 'grep', '-r', '^psk=', '/etc/NetworkManager/system-connections/'], capture_output=True, text=True).stdout.split('\n')
             profiles = [r.split(':')[0].split('/')[4] for r in results if r]
